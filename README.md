@@ -6,7 +6,7 @@
 ## 🌟 About Me
 - 🎓 B.Tech AI & Data Science Student  
 - 💻 Passionate about Coding & AI  
-- 🔥 Goal: 40 LPA Job / Tech Leader  
+- 🔥 Goal: Tech Leader  
 - 🚀 Building Real-world Projects  
 
 ---
