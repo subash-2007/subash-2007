@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subash</h1>
-<h3 align="center">🚀 Artificial Intelligence & Data Science Student </h3>
+<h3 align="center">🚀 AI Developer  </h3>
 
 ---
 
