@@ -11,30 +11,9 @@
 
 ---
 
-## 🛠️ Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,html,css,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subash-2007&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash-2007&theme=tokyonight" />
-</p>
-
----
-
-## 💡 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash-2007&layout=compact&theme=tokyonight" />
 </p>
 
 ---
