@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - 🎓 B.Tech AI & Data Science Student  
-- 💻 Passionate about Coding & AI  
+- 💻 Passionate about AI  
 - 🔥 Goal: Tech Leader  
 - 🚀 Building Real-world Projects  
 
